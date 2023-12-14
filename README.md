@@ -19,12 +19,12 @@ The results shown in the paper were obtained using Python 3.8, OpenAI Gym 0.24.0
 
 ```
 @article{
-	anonymous2023error,
+	zerouali2023error,
 	title={Error bounds and dynamics of bootstrapping in actor-critic reinforcement learning},
-	author={Anonymous},
-	journal={Submitted to Transactions on Machine Learning Research},
+	author={Ahmed J Zerouali and Douglas Blair Tweed},
+	journal={Transactions on Machine Learning Research},
+	issn={2835-8856},
 	year={2023},
 	url={https://openreview.net/forum?id=QCjMJfSnYk},
-	note={Under review}
 }
 ```
